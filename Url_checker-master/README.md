@@ -33,5 +33,5 @@ To further enhance the capabilities of the Website Health Checker, the following
 Overall, the URLGuardian built with React offers a valuable tool for users to assess the health and security of websites they are interested in or responsible for, ensuring a safer and smoother browsing experience on the internet.
 ## Author
 
-- [adityayaduvanshi](https://adityayads.vercel.app)
+sricharanreddyboda@gmail.com
 
